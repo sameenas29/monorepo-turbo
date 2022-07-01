@@ -1,2 +1,2 @@
-[33meslint-plugin-hydrogen:build[0m: cache hit, replaying output [2m9912bb69d8321f8a[0m
-[33meslint-plugin-hydrogen:build: [0m$ tsc -p .
+[36meslint-plugin-hydrogen:build[0m: cache hit, replaying output [2me412069716610f44[0m
+[36meslint-plugin-hydrogen:build: [0m$ tsc -p .

@@ -1,9 +1,9 @@
-[35mturbo-ignore:build[0m: cache hit, replaying output [2m792d1c8371645a03[0m
-[35mturbo-ignore:build: [0m$ tsup index.js --format=cjs && cp ./package.json ./dist/package.json
-[35mturbo-ignore:build: [0mCLI Building entry: index.js
-[35mturbo-ignore:build: [0mCLI Using tsconfig: ../../tsconfig.json
-[35mturbo-ignore:build: [0mCLI tsup v5.12.9
-[35mturbo-ignore:build: [0mCLI Target: node12
-[35mturbo-ignore:build: [0mCJS Build start
-[35mturbo-ignore:build: [0mCJS ⚡️ Build success in 136ms
-[35mturbo-ignore:build: [0mCJS dist/index.js 133.75 KB
+[33mturbo-ignore:build[0m: cache hit, replaying output [2m454bf9224d480a7f[0m
+[33mturbo-ignore:build: [0m$ tsup index.js --format=cjs && cp ./package.json ./dist/package.json
+[33mturbo-ignore:build: [0mCLI Building entry: index.js
+[33mturbo-ignore:build: [0mCLI Using tsconfig: ../../tsconfig.json
+[33mturbo-ignore:build: [0mCLI tsup v5.12.9
+[33mturbo-ignore:build: [0mCLI Target: node12
+[33mturbo-ignore:build: [0mCJS Build start
+[33mturbo-ignore:build: [0mCJS ⚡️ Build success in 591ms
+[33mturbo-ignore:build: [0mCJS dist/index.js 133.75 KB

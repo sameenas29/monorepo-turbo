@@ -1,1 +1,161 @@
-[35mdemo-store:build[0m: cache hit, replaying output [2mdafb5527343ba0cd[0m
+[36mdemo-store:build[0m: cache hit, replaying output [2mb38f41bc40237287[0m
+[36mdemo-store:build: [0m$ shopify hydrogen build
+[36mdemo-store:build: [0m[STARTED] Building client code
+[36mdemo-store:build: [0mvite v2.9.13 building for production...
+[36mdemo-store:build: [0mtransforming...
+[36mdemo-store:build: [0m✓ 513 modules transformed.
+[36mdemo-store:build: [0mrendering chunks...
+[36mdemo-store:build: [0mdist/client/assets/favicon.48633abf.svg       0.67 KiB
+[36mdemo-store:build: [0mdist/client/index.html                        0.65 KiB
+[36mdemo-store:build: [0mdist/client/manifest.json                     34.80 KiB
+[36mdemo-store:build: [0mdist/client/assets/94c93145.js                1.43 KiB / gzip: 0.76 KiB
+[36mdemo-store:build: [0mdist/client/assets/94c93145.js.map            4.82 KiB
+[36mdemo-store:build: [0mdist/client/assets/22e2f7c8.js                0.27 KiB / gzip: 0.21 KiB
+[36mdemo-store:build: [0mdist/client/assets/22e2f7c8.js.map            1.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/22807404.js                0.20 KiB / gzip: 0.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/22807404.js.map            0.88 KiB
+[36mdemo-store:build: [0mdist/client/assets/ddc77c72.js                0.30 KiB / gzip: 0.23 KiB
+[36mdemo-store:build: [0mdist/client/assets/ddc77c72.js.map            0.83 KiB
+[36mdemo-store:build: [0mdist/client/assets/4982c2e5.js                0.33 KiB / gzip: 0.21 KiB
+[36mdemo-store:build: [0mdist/client/assets/4982c2e5.js.map            1.02 KiB
+[36mdemo-store:build: [0mdist/client/assets/e925c31d.js                0.20 KiB / gzip: 0.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/e925c31d.js.map            0.58 KiB
+[36mdemo-store:build: [0mdist/client/assets/7c09e75d.js                0.51 KiB / gzip: 0.34 KiB
+[36mdemo-store:build: [0mdist/client/assets/7c09e75d.js.map            1.58 KiB
+[36mdemo-store:build: [0mdist/client/assets/5eb859da.js                0.11 KiB / gzip: 0.11 KiB
+[36mdemo-store:build: [0mdist/client/assets/5eb859da.js.map            0.36 KiB
+[36mdemo-store:build: [0mdist/client/assets/adaeb2fd.js                0.17 KiB / gzip: 0.16 KiB
+[36mdemo-store:build: [0mdist/client/assets/adaeb2fd.js.map            2.26 KiB
+[36mdemo-store:build: [0mdist/client/assets/5f959e2e.js                0.14 KiB / gzip: 0.14 KiB
+[36mdemo-store:build: [0mdist/client/assets/5f959e2e.js.map            0.61 KiB
+[36mdemo-store:build: [0mdist/client/assets/2213216e.js                4.65 KiB / gzip: 2.06 KiB
+[36mdemo-store:build: [0mdist/client/assets/2213216e.js.map            37.57 KiB
+[36mdemo-store:build: [0mdist/client/assets/04dca0e7.js                2.79 KiB / gzip: 1.46 KiB
+[36mdemo-store:build: [0mdist/client/assets/04dca0e7.js.map            11.33 KiB
+[36mdemo-store:build: [0mdist/client/assets/d8ffdb17.js                0.90 KiB / gzip: 0.50 KiB
+[36mdemo-store:build: [0mdist/client/assets/d8ffdb17.js.map            2.43 KiB
+[36mdemo-store:build: [0mdist/client/assets/b272589f.js                2.39 KiB / gzip: 1.10 KiB
+[36mdemo-store:build: [0mdist/client/assets/b272589f.js.map            6.83 KiB
+[36mdemo-store:build: [0mdist/client/assets/1a593380.js                1.87 KiB / gzip: 1.04 KiB
+[36mdemo-store:build: [0mdist/client/assets/1a593380.js.map            9.39 KiB
+[36mdemo-store:build: [0mdist/client/assets/3f9bbc41.js                0.09 KiB / gzip: 0.10 KiB
+[36mdemo-store:build: [0mdist/client/assets/3f9bbc41.js.map            0.34 KiB
+[36mdemo-store:build: [0mdist/client/assets/fc1b6bf0.js                0.33 KiB / gzip: 0.24 KiB
+[36mdemo-store:build: [0mdist/client/assets/fc1b6bf0.js.map            1.06 KiB
+[36mdemo-store:build: [0mdist/client/assets/77e0e43e.js                0.09 KiB / gzip: 0.10 KiB
+[36mdemo-store:build: [0mdist/client/assets/77e0e43e.js.map            0.33 KiB
+[36mdemo-store:build: [0mdist/client/assets/0a723ef5.js                0.85 KiB / gzip: 0.48 KiB
+[36mdemo-store:build: [0mdist/client/assets/0a723ef5.js.map            5.70 KiB
+[36mdemo-store:build: [0mdist/client/assets/5ea3d0f9.js                12.68 KiB / gzip: 5.32 KiB
+[36mdemo-store:build: [0mdist/client/assets/5ea3d0f9.js.map            81.21 KiB
+[36mdemo-store:build: [0mdist/client/assets/f2ed17b2.js                16.97 KiB / gzip: 6.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/f2ed17b2.js.map            44.20 KiB
+[36mdemo-store:build: [0mdist/client/assets/23d7adcc.js                0.56 KiB / gzip: 0.37 KiB
+[36mdemo-store:build: [0mdist/client/assets/23d7adcc.js.map            2.18 KiB
+[36mdemo-store:build: [0mdist/client/assets/52e25457.js                0.43 KiB / gzip: 0.29 KiB
+[36mdemo-store:build: [0mdist/client/assets/52e25457.js.map            1.11 KiB
+[36mdemo-store:build: [0mdist/client/assets/b8867bae.js                0.06 KiB / gzip: 0.07 KiB
+[36mdemo-store:build: [0mdist/client/assets/b8867bae.js.map            1.19 KiB
+[36mdemo-store:build: [0mdist/client/assets/c7013c6a.js                0.28 KiB / gzip: 0.21 KiB
+[36mdemo-store:build: [0mdist/client/assets/c7013c6a.js.map            0.80 KiB
+[36mdemo-store:build: [0mdist/client/assets/4b9add82.js                8.01 KiB / gzip: 2.88 KiB
+[36mdemo-store:build: [0mdist/client/assets/4b9add82.js.map            27.19 KiB
+[36mdemo-store:build: [0mdist/client/assets/c6e2b1fe.js                0.52 KiB / gzip: 0.33 KiB
+[36mdemo-store:build: [0mdist/client/assets/c6e2b1fe.js.map            1.88 KiB
+[36mdemo-store:build: [0mdist/client/assets/5fcc6fb5.js                0.89 KiB / gzip: 0.49 KiB
+[36mdemo-store:build: [0mdist/client/assets/5fcc6fb5.js.map            2.36 KiB
+[36mdemo-store:build: [0mdist/client/assets/9c35c1da.js                0.68 KiB / gzip: 0.39 KiB
+[36mdemo-store:build: [0mdist/client/assets/9c35c1da.js.map            1.99 KiB
+[36mdemo-store:build: [0mdist/client/assets/7792a118.js                4.27 KiB / gzip: 1.93 KiB
+[36mdemo-store:build: [0mdist/client/assets/7792a118.js.map            11.77 KiB
+[36mdemo-store:build: [0mdist/client/assets/eb1c0482.js                0.37 KiB / gzip: 0.26 KiB
+[36mdemo-store:build: [0mdist/client/assets/eb1c0482.js.map            1.03 KiB
+[36mdemo-store:build: [0mdist/client/assets/580a26b7.js                0.28 KiB / gzip: 0.22 KiB
+[36mdemo-store:build: [0mdist/client/assets/580a26b7.js.map            1.25 KiB
+[36mdemo-store:build: [0mdist/client/assets/4c6298b2.js                2.17 KiB / gzip: 0.95 KiB
+[36mdemo-store:build: [0mdist/client/assets/4c6298b2.js.map            7.56 KiB
+[36mdemo-store:build: [0mdist/client/assets/01bf424f.js                0.17 KiB / gzip: 0.15 KiB
+[36mdemo-store:build: [0mdist/client/assets/01bf424f.js.map            1.03 KiB
+[36mdemo-store:build: [0mdist/client/assets/22e5f5c8.js                3.99 KiB / gzip: 1.36 KiB
+[36mdemo-store:build: [0mdist/client/assets/22e5f5c8.js.map            12.19 KiB
+[36mdemo-store:build: [0mdist/client/assets/2e48f99a.js                0.24 KiB / gzip: 0.19 KiB
+[36mdemo-store:build: [0mdist/client/assets/2e48f99a.js.map            0.67 KiB
+[36mdemo-store:build: [0mdist/client/assets/57d17f1b.js                7.37 KiB / gzip: 2.00 KiB
+[36mdemo-store:build: [0mdist/client/assets/57d17f1b.js.map            29.93 KiB
+[36mdemo-store:build: [0mdist/client/assets/636cda5f.js                5.16 KiB / gzip: 1.59 KiB
+[36mdemo-store:build: [0mdist/client/assets/636cda5f.js.map            10.08 KiB
+[36mdemo-store:build: [0mdist/client/assets/2e241e75.js                0.19 KiB / gzip: 0.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/2e241e75.js.map            1.76 KiB
+[36mdemo-store:build: [0mdist/client/assets/c9ec4ed5.js                3.18 KiB / gzip: 1.22 KiB
+[36mdemo-store:build: [0mdist/client/assets/c9ec4ed5.js.map            11.63 KiB
+[36mdemo-store:build: [0mdist/client/assets/b7300fba.js                11.23 KiB / gzip: 3.90 KiB
+[36mdemo-store:build: [0mdist/client/assets/b7300fba.js.map            26.94 KiB
+[36mdemo-store:build: [0mdist/client/assets/7855ef3a.js                5.09 KiB / gzip: 1.47 KiB
+[36mdemo-store:build: [0mdist/client/assets/7855ef3a.js.map            16.07 KiB
+[36mdemo-store:build: [0mdist/client/assets/a8c144d2.js                1.17 KiB / gzip: 0.64 KiB
+[36mdemo-store:build: [0mdist/client/assets/a8c144d2.js.map            3.83 KiB
+[36mdemo-store:build: [0mdist/client/assets/9ee84f96.js                0.76 KiB / gzip: 0.44 KiB
+[36mdemo-store:build: [0mdist/client/assets/9ee84f96.js.map            1.73 KiB
+[36mdemo-store:build: [0mdist/client/assets/f0520271.js                0.65 KiB / gzip: 0.39 KiB
+[36mdemo-store:build: [0mdist/client/assets/f0520271.js.map            2.26 KiB
+[36mdemo-store:build: [0mdist/client/assets/f3ad6cbd.js                3.74 KiB / gzip: 1.45 KiB
+[36mdemo-store:build: [0mdist/client/assets/f3ad6cbd.js.map            15.13 KiB
+[36mdemo-store:build: [0mdist/client/assets/74df3b07.js                7.06 KiB / gzip: 2.81 KiB
+[36mdemo-store:build: [0mdist/client/assets/74df3b07.js.map            23.37 KiB
+[36mdemo-store:build: [0mdist/client/assets/c2c58007.js                6.72 KiB / gzip: 2.67 KiB
+[36mdemo-store:build: [0mdist/client/assets/c2c58007.js.map            15.06 KiB
+[36mdemo-store:build: [0mdist/client/assets/e0709c8e.js                1.25 KiB / gzip: 0.61 KiB
+[36mdemo-store:build: [0mdist/client/assets/e0709c8e.js.map            2.09 KiB
+[36mdemo-store:build: [0mdist/client/assets/74d579ca.js                3.04 KiB / gzip: 1.18 KiB
+[36mdemo-store:build: [0mdist/client/assets/74d579ca.js.map            8.13 KiB
+[36mdemo-store:build: [0mdist/client/assets/7121fc8a.js                0.34 KiB / gzip: 0.26 KiB
+[36mdemo-store:build: [0mdist/client/assets/7121fc8a.js.map            1.17 KiB
+[36mdemo-store:build: [0mdist/client/assets/f13c2a39.js                2.98 KiB / gzip: 1.19 KiB
+[36mdemo-store:build: [0mdist/client/assets/f13c2a39.js.map            8.08 KiB
+[36mdemo-store:build: [0mdist/client/assets/aa13b66f.js                0.30 KiB / gzip: 0.24 KiB
+[36mdemo-store:build: [0mdist/client/assets/aa13b66f.js.map            0.95 KiB
+[36mdemo-store:build: [0mdist/client/assets/400426cf.js                9.36 KiB / gzip: 2.53 KiB
+[36mdemo-store:build: [0mdist/client/assets/400426cf.js.map            25.62 KiB
+[36mdemo-store:build: [0mdist/client/assets/95bb8eb1.js                2.98 KiB / gzip: 1.28 KiB
+[36mdemo-store:build: [0mdist/client/assets/95bb8eb1.js.map            6.72 KiB
+[36mdemo-store:build: [0mdist/client/assets/c73c4d0d.js                6.23 KiB / gzip: 2.04 KiB
+[36mdemo-store:build: [0mdist/client/assets/c73c4d0d.js.map            17.51 KiB
+[36mdemo-store:build: [0mdist/client/assets/544a10f9.js                3.06 KiB / gzip: 1.18 KiB
+[36mdemo-store:build: [0mdist/client/assets/544a10f9.js.map            8.28 KiB
+[36mdemo-store:build: [0mdist/client/assets/0e43e2f6.js                4.24 KiB / gzip: 1.54 KiB
+[36mdemo-store:build: [0mdist/client/assets/0e43e2f6.js.map            11.47 KiB
+[36mdemo-store:build: [0mdist/client/assets/f3d03b99.js                1.28 KiB / gzip: 0.65 KiB
+[36mdemo-store:build: [0mdist/client/assets/f3d03b99.js.map            3.36 KiB
+[36mdemo-store:build: [0mdist/client/assets/636c0604.js                0.08 KiB / gzip: 0.09 KiB
+[36mdemo-store:build: [0mdist/client/assets/636c0604.js.map            0.51 KiB
+[36mdemo-store:build: [0mdist/client/assets/e1f005f7.js                32.83 KiB / gzip: 11.50 KiB
+[36mdemo-store:build: [0mdist/client/assets/e1f005f7.js.map            86.31 KiB
+[36mdemo-store:build: [0mdist/client/assets/165185d0.js                2.44 KiB / gzip: 1.12 KiB
+[36mdemo-store:build: [0mdist/client/assets/165185d0.js.map            6.05 KiB
+[36mdemo-store:build: [0mdist/client/assets/df406968.js                5.17 KiB / gzip: 2.23 KiB
+[36mdemo-store:build: [0mdist/client/assets/df406968.js.map            16.87 KiB
+[36mdemo-store:build: [0mdist/client/assets/a0f5e60f.js                4.21 KiB / gzip: 1.59 KiB
+[36mdemo-store:build: [0mdist/client/assets/a0f5e60f.js.map            9.55 KiB
+[36mdemo-store:build: [0mdist/client/assets/00d48921.js                1.12 KiB / gzip: 0.59 KiB
+[36mdemo-store:build: [0mdist/client/assets/00d48921.js.map            2.39 KiB
+[36mdemo-store:build: [0mdist/client/assets/custom-font.05d48841.css   0.27 KiB / gzip: 0.14 KiB
+[36mdemo-store:build: [0mdist/client/assets/545d050b.js                2.69 KiB / gzip: 1.27 KiB
+[36mdemo-store:build: [0mdist/client/assets/545d050b.js.map            7.50 KiB
+[36mdemo-store:build: [0mdist/client/assets/00388503.js                3.18 KiB / gzip: 1.52 KiB
+[36mdemo-store:build: [0mdist/client/assets/00388503.js.map            10.33 KiB
+[36mdemo-store:build: [0mdist/client/assets/73c75ea2.js                5.68 KiB / gzip: 2.01 KiB
+[36mdemo-store:build: [0mdist/client/assets/73c75ea2.js.map            14.83 KiB
+[36mdemo-store:build: [0mdist/client/assets/index.18f21883.css         62.16 KiB / gzip: 9.85 KiB
+[36mdemo-store:build: [0mdist/client/assets/index.cd9ee5ff.js          162.05 KiB / gzip: 51.34 KiB
+[36mdemo-store:build: [0mdist/client/assets/index.cd9ee5ff.js.map      364.79 KiB
+[36mdemo-store:build: [0m[TITLE] Built client code
+[36mdemo-store:build: [0m[SUCCESS] Built client code
+[36mdemo-store:build: [0m[STARTED] Building worker code
+[36mdemo-store:build: [0mvite v2.9.13 building SSR bundle for production...
+[36mdemo-store:build: [0mtransforming...
+[36mdemo-store:build: [0m✓ 839 modules transformed.
+[36mdemo-store:build: [0mrendering chunks...
+[36mdemo-store:build: [0mdist/worker/index.js   534.74 KiB
+[36mdemo-store:build: [0mdist/worker/index.js.map 1660.59 KiB
+[36mdemo-store:build: [0m[TITLE] Built worker code
+[36mdemo-store:build: [0m[SUCCESS] Built worker code
