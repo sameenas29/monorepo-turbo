@@ -1,0 +1,51 @@
+[33msample-app:build[0m: cache hit, replaying output [2m9aed106933b30534[0m
+[33msample-app:build: [0m$ sh ./prebuild.sh
+[33msample-app:build: [0m
+[33msample-app:build: [0m> @acme/core@0.0.0 build
+[33msample-app:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.tsx
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mESM Build start
+[33msample-app:build: [0mESM ⚡️ Build success in 17ms
+[33msample-app:build: [0mCJS ⚡️ Build success in 34ms
+[33msample-app:build: [0mCJS dist/index.js 1.50 KB
+[33msample-app:build: [0mESM dist/index.mjs 222.00 B
+[33msample-app:build: [0mDTS Build start
+[33msample-app:build: [0mDTS ⚡️ Build success in 5784ms
+[33msample-app:build: [0mDTS dist/index.d.ts 239.00 B
+[33msample-app:build: [0m
+[33msample-app:build: [0m> @acme/utils@0.0.0 build
+[33msample-app:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.tsx
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mESM Build start
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mESM ⚡️ Build success in 151ms
+[33msample-app:build: [0mCJS ⚡️ Build success in 91ms
+[33msample-app:build: [0mESM dist/index.mjs 726.00 B
+[33msample-app:build: [0mCJS dist/index.js 2.09 KB
+[33msample-app:build: [0mDTS Build start
+[33msample-app:build: [0mDTS ⚡️ Build success in 4640ms
+[33msample-app:build: [0mDTS dist/index.d.ts 734.00 B
+[33msample-app:build: [0m
+[33msample-app:build: [0m> create-turbo@1.2.17-canary.0 build
+[33msample-app:build: [0m> tsup src/index.ts --format cjs
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.ts
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mCJS ⚡️ Build success in 57ms
+[33msample-app:build: [0mCJS dist/index.js 14.22 KB
+[33msample-app:build: [0m
+[33msample-app:build: [0m> logger@0.0.0 build
+[33msample-app:build: [0m> tsc
+[33msample-app:build: [0m

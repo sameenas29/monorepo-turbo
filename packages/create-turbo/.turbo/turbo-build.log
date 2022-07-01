@@ -1,0 +1,9 @@
+[32mcreate-turbo:build[0m: cache hit, replaying output [2m6830826de41042de[0m
+[32mcreate-turbo:build: [0m$ tsup src/index.ts --format cjs
+[32mcreate-turbo:build: [0mCLI Building entry: src/index.ts
+[32mcreate-turbo:build: [0mCLI Using tsconfig: tsconfig.json
+[32mcreate-turbo:build: [0mCLI tsup v5.12.9
+[32mcreate-turbo:build: [0mCLI Target: node12
+[32mcreate-turbo:build: [0mCJS Build start
+[32mcreate-turbo:build: [0mCJS ⚡️ Build success in 85ms
+[32mcreate-turbo:build: [0mCJS dist/index.js 14.22 KB
