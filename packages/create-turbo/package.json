@@ -12,9 +12,7 @@
   "bugs": {
     "url": "https://github.com/vercel/turborepo/issues"
   },
-  "bin": {
-    "create-turbo": "dist/index.js"
-  },
+  "bin": "dist/index.js",
   "scripts": {
     "build": "tsup src/index.ts --format cjs",
     "test": "jest",
@@ -22,6 +20,7 @@
   },
   "dependencies": {
     "chalk": "2.4.2",
+    "eslint-config-custom-server": "*",
     "execa": "5.0.0",
     "fs-extra": "^10.0.0",
     "gradient-string": "^2.0.0",

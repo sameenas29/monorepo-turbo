@@ -160,4 +160,5 @@ function expandFilePathsIfNeeded(filesBeforeExpansion: string[]) {
   return shouldExpandFiles
     ? globby.sync(filesBeforeExpansion)
     : filesBeforeExpansion;
-}
+};
+

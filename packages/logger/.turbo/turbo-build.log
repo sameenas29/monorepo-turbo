@@ -1,2 +1,2 @@
-[32mlogger:build[0m: cache hit, replaying output [2mdab0ab33f16de900[0m
-[32mlogger:build: [0m$ tsc
+[35mlogger:build[0m: cache hit, replaying output [2m048d9ae0163c1573[0m
+[35mlogger:build: [0m$ tsc

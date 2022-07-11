@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - node
+notifications:
+  email: false
+sudo: false
+scripts:
+  - npm run lint
+  - npm run test
+  - npm run build
+after_success:
+  - npm run build
+  - semantic-release pre
+  - npm publish
+  - semantic-release post

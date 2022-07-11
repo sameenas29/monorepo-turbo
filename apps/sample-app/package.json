@@ -10,9 +10,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@acme/core": "*",
+    "@turbo/codemod": "*",
+    "create-turbo": "*",
+    "eslint-config-custom-server": "*",
+    "logger": "*",
     "next": "12.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-carousel": "*",
+    "react-dom": "18.2.0",
+    "turbo-ignore": "*",
+    "underscore": "*"
   },
   "devDependencies": {
     "@types/node": "17.0.43",

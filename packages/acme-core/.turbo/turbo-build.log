@@ -1,15 +1,15 @@
-[32m@acme/core:build[0m: cache hit, replaying output [2m7ec370a1945d85f9[0m
-[32m@acme/core:build: [0m$ tsup src/index.tsx --format esm,cjs --dts --external react
-[32m@acme/core:build: [0mCLI Building entry: src/index.tsx
-[32m@acme/core:build: [0mCLI Using tsconfig: tsconfig.json
-[32m@acme/core:build: [0mCLI tsup v5.12.9
-[32m@acme/core:build: [0mCLI Target: node12
-[32m@acme/core:build: [0mESM Build start
-[32m@acme/core:build: [0mCJS Build start
-[32m@acme/core:build: [0mCJS ⚡️ Build success in 389ms
-[32m@acme/core:build: [0mESM ⚡️ Build success in 433ms
-[32m@acme/core:build: [0mCJS dist/index.js 1.50 KB
-[32m@acme/core:build: [0mESM dist/index.mjs 207.00 B
-[32m@acme/core:build: [0mDTS Build start
-[32m@acme/core:build: [0mDTS ⚡️ Build success in 18714ms
-[32m@acme/core:build: [0mDTS dist/index.d.ts 239.00 B
+[34m@acme/core:build[0m: cache hit, replaying output [2m41cb02bf06852e1b[0m
+[34m@acme/core:build: [0m$ tsup src/index.tsx --format esm,cjs --dts --external react
+[34m@acme/core:build: [0mCLI Building entry: src/index.tsx
+[34m@acme/core:build: [0mCLI Using tsconfig: tsconfig.json
+[34m@acme/core:build: [0mCLI tsup v5.12.9
+[34m@acme/core:build: [0mCLI Target: node12
+[34m@acme/core:build: [0mESM Build start
+[34m@acme/core:build: [0mCJS Build start
+[34m@acme/core:build: [0mESM ⚡️ Build success in 14ms
+[34m@acme/core:build: [0mCJS ⚡️ Build success in 9ms
+[34m@acme/core:build: [0mESM dist/index.mjs 207.00 B
+[34m@acme/core:build: [0mCJS dist/index.js 1.50 KB
+[34m@acme/core:build: [0mDTS Build start
+[34m@acme/core:build: [0mDTS ⚡️ Build success in 950ms
+[34m@acme/core:build: [0mDTS dist/index.d.ts 239.00 B

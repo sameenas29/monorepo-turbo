@@ -1,4 +1,4 @@
-module.exports = {
+const x = {
   extends: ["eslint:recommended"],
   env: {
     node: true,
@@ -17,3 +17,8 @@ module.exports = {
     },
   ],
 };
+
+export function eslintExport(){
+  let a =9;
+  a=a+6;
+}

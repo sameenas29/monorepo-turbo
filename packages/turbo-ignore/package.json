@@ -11,6 +11,9 @@
     "build": "tsup index.js --format=cjs && cp ./package.json ./dist/package.json",
     "release": "pnpm build && cd dist && npm publish"
   },
+  "dependencies": {
+    "underscore": "*"
+  },
   "devDependencies": {
     "@manypkg/find-root": "^1.1.0",
     "esbuild": "^0.14.38",
